@@ -1,0 +1,98 @@
+@charset "utf-8";
+/* CSS Document */
+
+
+body {background-color:#CED1F8;}
+
+#Logo {float:left;}
+#Icon {float:right;}
+#navigation 
+{
+	Clear:both;
+	border-top: solid black 1px;
+	border-bottom:solid black 1px;
+	word-spacing:15px;
+	margin: 15px;
+	padding: 15px;
+}
+
+#navigation a {text-decoration:none}
+#navigation a:link {color :black;}
+#navigation a:hover {color :#9D383A;}
+#navigation a:visited {color:black;}
+
+
+
+#Weldow h1 
+{
+    color: #8E2426;
+	border-bottom: solid black 0.5px;
+	padding : 10px;
+}
+#righttext h4
+{color:#8E2426}
+
+#Weldow img
+{
+	border:solid black 0.5px;
+	padding:3px;
+	margin: 3px;
+}
+
+#Weldow {float:left; width:627px;margin:3px}
+#righttext {float:right; width:220px;}
+#Footer {clear:both;}
+
+#kotak {background-color:white;
+margin:0px auto; width:950px;}
+
+#kotakkotak {background-color:white;
+margin:0px auto; width:900px;}
+
+#Footer 
+{border-top: solid black 1px;
+ text-align-last : center;}
+
+#ModernRooms
+{width:250px;
+border-top:solid #5F0C0E 10px;background-color:#BB6C6D;
+float:left;
+margin-left:20px;
+margin-bottom:20px;
+padding-bottom: 20px;
+padding-left: 15px;
+padding-right: 10px;
+font-family:Cambria}
+
+#TraditionalRooms
+{width:250px;
+border-top:solid #5F0C0E 10px;background-color:#BB6C6D;
+float:left;
+margin-left:20px;
+margin-bottom:20px;
+padding-bottom: 20px;
+padding-left: 10px;
+padding-right: 10px;
+font-family:Cambria}
+
+
+#ContemporaryRooms
+{width:250px;
+border-top:solid #5F0C0E 10px;background-color:#BB6C6D;
+float:left;
+margin-left:20px;
+margin-bottom:20px;
+padding-bottom: 20px;
+padding-left: 10px;
+padding-right: 10px;
+font-family:Cambria}
+
+
+
+
+
+
+
+  
+
+ 
